@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_dictionary_app/static/css/main.dd2e6dc4.css",
+    "main.js": "/react_dictionary_app/static/js/main.f8b287d0.js",
+    "static/media/back-ground.jpg": "/react_dictionary_app/static/media/back-ground.8ca90014fb6ce5980110.jpg",
+    "index.html": "/react_dictionary_app/index.html",
+    "main.dd2e6dc4.css.map": "/react_dictionary_app/static/css/main.dd2e6dc4.css.map",
+    "main.f8b287d0.js.map": "/react_dictionary_app/static/js/main.f8b287d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd2e6dc4.css",
+    "static/js/main.f8b287d0.js"
+  ]
+}
